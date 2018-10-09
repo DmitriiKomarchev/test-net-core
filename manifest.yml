@@ -4,7 +4,7 @@ sample:
   description: A sample that shows simple console application
   generateZip: false
   author: ant
-  langueges:
+  languages:
   - csharp
   technologies:
   - advanced-threat-analytics
