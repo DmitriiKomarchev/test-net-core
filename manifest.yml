@@ -1,13 +1,13 @@
 ### YamlMime:Sample
 sample:
-  - name: .Net Core console sample
-    description: A sample that shows simple console application
-    generatedZip: false
-    author: ant
-    langueges:
-      - csharp
-    technologies:
-      - advanced-threat-analytics
-    ci_config:
-      - path: /
-        template: dot_net_core
+- name: .Net Core console sample
+  description: A sample that shows simple console application
+  generatedZip: false
+  author: ant
+  langueges:
+  - csharp
+  technologies:
+  - advanced-threat-analytics
+  ci_config:
+  - path: /
+    template: dot_net_core
