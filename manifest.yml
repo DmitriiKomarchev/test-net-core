@@ -2,7 +2,7 @@
 sample:
 - name: .Net Core console sample
   description: A sample that shows simple console application
-  generateZip: true
+  generateZip: false
   author: ant
   languages:
   - csharp
