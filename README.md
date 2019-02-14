@@ -2,9 +2,8 @@
 topic: sample
 languages:
 - csharp
-- net
 products:
-- azure
+- advanced-threat-analytics
 name: Using Azure APIs
 ---
 #Sample .net core console application
