@@ -8,7 +8,6 @@ languages:
 - XAML
 products:
 - office
-codeUrl: https://github.com/yuryklyshevich/test1/tree/master/
 description: ''
 authors:
 - Id: yuryklyshevich
