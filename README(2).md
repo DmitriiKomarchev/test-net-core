@@ -1,5 +1,4 @@
 ---
-topic: sample
 name: 2 md
 urlFragment: SecondMD
 languages:
